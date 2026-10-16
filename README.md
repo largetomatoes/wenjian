@@ -29,3 +29,7 @@ python3 -m http.server 8080 --bind 127.0.0.1
 仓库改名维护：软件`wenjian-software`、官网`wenjian-web`，当前下载为3.14（320）。320从新地址检查更新，兼容旧下载链接；319及以前需手动覆盖升级一次。截图沿用319（本次界面和数据格式不变）。旧`/wenjian/`网址通过个人站点的迁移页跳转。
 
 3.14（321）独立 Release：三端书籍原件随同步、Windows Setup 安装版与离线中文字体、Android 内存与中断恢复。下载统一指向 v3.14-build321；320及以前手动覆盖升级一次。
+
+## Web App 2 增量发布
+
+iPhone / iPad 公开入口：https://wenjian-ios-reader.liyibo2432023353.chatgpt.site/read/ 。无需 ChatGPT 登录，各自使用自己的浏览器资料库与坚果云。先 Safari 添加到主屏幕，再从图标接入。iPad 侧栏、书籍网格、横屏原文和本书笔记并排；Web 端单本传输限 80 MB。页面说明、隐私与入口已补充，原生下载继续为 3.14（321）。Web 截图均为虚构测试资料。
